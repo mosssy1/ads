@@ -1,0 +1,5 @@
+CAT
+dog
+Mouse
+dog2
+Курица
